@@ -37,7 +37,7 @@ Enjoy coding ❤
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/markmeiszterics/b4a-application/blob/main/main.png)
+![App Screenshot](https://github.com/markmeiszterics/b4a-application/blob/main/login.png)
+![App Screenshot](https://github.com/markmeiszterics/b4a-application/blob/main/registration.png)
 
