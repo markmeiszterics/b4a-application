@@ -1,11 +1,7 @@
 
 # B4A Android App | Dashboard | Login | Registration | SQLite
 
-The application's display language is Hungarian, but it is coded in English, so it will be easy to understand.
-The backend uses SQLite for the database, sooner I will create an other repo for using it with an actual (direct) sql server.
-
-
-
+made with ❤
 ## License
 
 
@@ -21,18 +17,12 @@ Project is made during professional practice for developing applications for And
 
 ## Documentation
 
-The entire project is made with a local sqlite database which is available in the Files folder.\
-Keep in mind that this is a very starter get-to-know example program.
-
-You can Register and Login to access the Dashboard. 
-Premade account login(username: admin, pass: admin)\
-
-In the future the app will be capable to work with a remote sql server. 
+- local sql (SQLite)
+- login page
+- registration page
+- dashboard
 
 Enjoy coding ❤
-
-
-
 
 
 ## Screenshots
